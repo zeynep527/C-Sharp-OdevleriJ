@@ -1,0 +1,4 @@
+C:\Users\lenovo\OneDrive\Belgeler\GitHub\C-Sharp-Odevleri\If-ElseIf-Ternary-If\If-ElseIf-Ternary-If\obj\Debug\netcoreapp3.1\If-ElseIf-Ternary-If.csprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Belgeler\GitHub\C-Sharp-Odevleri\If-ElseIf-Ternary-If\If-ElseIf-Ternary-If\obj\Debug\netcoreapp3.1\If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Belgeler\GitHub\C-Sharp-Odevleri\If-ElseIf-Ternary-If\If-ElseIf-Ternary-If\obj\Debug\netcoreapp3.1\If-ElseIf-Ternary-If.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Belgeler\GitHub\C-Sharp-Odevleri\If-ElseIf-Ternary-If\If-ElseIf-Ternary-If\obj\Debug\netcoreapp3.1\If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
